@@ -13,11 +13,14 @@ module.exports = {
       ellipse_a: "#62BECB",
       ellipse_b: "#F57D7D",
       ellipse_c: "#62BECB",
+      lineDivide: "#62BECB",
+      searchBtn: "#EA5566",
     },
     fontSize: {
       djTxt: "40px",
       navMenuTxt: "18px",
       postBtnTxt: "16px",
+      footerSubHead: "22px",
     },
     letterSpacing: {
       djTxt: "0.12em",

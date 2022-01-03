@@ -1,8 +1,6 @@
 import React from "react";
-import Ellipse from "./Ellipse";
 import GuestSearchBar from "./GuestSearchBar";
 import Navbar from "./navbar/Navbar";
-import ellipseData from "../utils/ellipseData";
 
 function HeaderSection() {
   return (
