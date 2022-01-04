@@ -21,6 +21,7 @@ module.exports = {
       navMenuTxt: "18px",
       postBtnTxt: "16px",
       footerSubHead: "22px",
+      cardSubTitle: "24px",
     },
     letterSpacing: {
       djTxt: "0.12em",
