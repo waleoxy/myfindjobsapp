@@ -17,6 +17,7 @@ module.exports = {
       searchBtn: "#EA5566",
     },
     fontSize: {
+      loginTxt: "50px",
       djTxt: "40px",
       navMenuTxt: "18px",
       postBtnTxt: "16px",
